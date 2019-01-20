@@ -28,5 +28,9 @@ brew install ssh-copy-id
 brew install tmux
 brew install tree
 
+# Install Node.js
+brew install node
+brew install yarn
+
 # Remove outdated versions from the cellar.
 brew cleanup

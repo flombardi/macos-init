@@ -3,8 +3,8 @@
   "theme": "One Dark.sublime-theme",
   "tab_size": 2,
   "translate_tabs_to_spaces": true,
-	"ignored_packages":
-	[
-		"Vintage"
-	]
+  "ignored_packages":
+  [
+    "Vintage"
+  ]
 }

@@ -58,6 +58,7 @@ cp Preferences.sublime-settings ~/Library/Application\ Support/Sublime\ Text\ 3/
 * [Google Drive](https://www.google.com/intl/fr_ALL/drive/download/backup-and-sync/)
 * [iTerm2](https://www.iterm2.com/downloads.html)
 * [KeePassXC](https://keepassxc.org/download/)
+* [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)
 * [Shuttle](http://fitztrev.github.io/shuttle/)
 * [Vagrant](https://www.vagrantup.com/downloads.html)
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)

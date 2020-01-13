@@ -43,6 +43,7 @@ cp Preferences.sublime-settings ~/Library/Application\ Support/Sublime\ Text\ 3/
 ## Install from App Store
 
 * Amphetamine
+* CleanMyDrive 2
 * CopyClip
 * Microsoft Remote Desktop 10
 * Slack

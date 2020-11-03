@@ -21,16 +21,26 @@ brew install bash-completion
 brew install wget --with-iri
 
 # Install other useful binaries.
+brew install bash-completion
+brew install emacs
+brew install go
+brew install jq
+brew install moreutils
 brew install most
-brew install readline
-brew install rename
+brew install pre-commit
+brew install putty
 brew install ssh-copy-id
+brew install sshpass
 brew install tmux
 brew install tree
 
 # Install Node.js
 brew install node
 brew install yarn
+
+# Install python3
+brew install black
+brew install python@3.9
 
 # Remove outdated versions from the cellar.
 brew cleanup

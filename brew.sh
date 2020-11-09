@@ -11,6 +11,9 @@ brew upgrade --all
 # Install python (those that come with macOS are outdated).
 brew install python
 
+# Install less (those that come with macOS are outdated).
+brew install python
+
 # Install some other useful utilities like `sponge`.
 brew install moreutils
 
@@ -21,12 +24,9 @@ brew install bash-completion
 brew install wget --with-iri
 
 # Install other useful binaries.
-brew install bash-completion
 brew install emacs
 brew install go
 brew install jq
-brew install moreutils
-brew install most
 brew install pre-commit
 brew install putty
 brew install ssh-copy-id

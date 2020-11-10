@@ -26,6 +26,7 @@ brew install wget --with-iri
 # Install other useful binaries.
 brew install bat
 brew install emacs
+brew install exa
 brew install go
 brew install jq
 brew install pre-commit

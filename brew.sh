@@ -24,6 +24,7 @@ brew install bash-completion
 brew install wget --with-iri
 
 # Install other useful binaries.
+brew install bat
 brew install emacs
 brew install go
 brew install jq

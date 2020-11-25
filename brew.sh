@@ -8,17 +8,16 @@ brew update
 # Upgrade any already-installed formulae.
 brew upgrade --all
 
-# Install python (those that come with macOS are outdated).
-brew install python
-
-# Install less (those that come with macOS are outdated).
+# Update bash, git, python and tools (those that come with macOS are outdated).
+brew install bash
+brew install bash-completion@2
+brew install coreutils
+brew install git
+brew install less
 brew install python
 
 # Install some other useful utilities like `sponge`.
 brew install moreutils
-
-# Install Bash completion.
-brew install bash-completion
 
 # Install `wget` with IRI support.
 brew install wget --with-iri
@@ -46,3 +45,7 @@ brew install python@3.9
 
 # Remove outdated versions from the cellar.
 brew cleanup
+
+# Set Homebrew bash as user shell
+sudo sh -c "echo '/usr/local/bin/bash' >> /etc/shells"
+chsh -s /usr/local/bin/bash

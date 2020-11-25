@@ -15,6 +15,7 @@ brew install coreutils
 brew install git
 brew install less
 brew install python
+brew install rsync
 
 # Install some other useful utilities like `sponge`.
 brew install moreutils

@@ -44,6 +44,9 @@ brew install yarn
 brew install black
 brew install python@3.9
 
+# Install vagrant
+brew install --cask vagrant
+
 # Remove outdated versions from the cellar.
 brew cleanup
 

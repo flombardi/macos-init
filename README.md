@@ -46,21 +46,22 @@ cp Preferences.sublime-settings ~/Library/Application\ Support/Sublime\ Text\ 3/
 * CleanMyDrive 2
 * CopyClip
 * Microsoft Remote Desktop 10
-* Slack
 * The Unarchiver
 * WhatsApp Desktop
 
 ## 3rd Party
 
 * [AppCleaner](https://freemacsoft.net/appcleaner/)
+* [Authy](https://authy.com/download/)
 * [Chrome](https://www.google.com/chrome/)
+* [Docker Desktop](https://www.docker.com/products/docker-desktop)
 * [FileZilla](https://filezilla-project.org/download.php?type=client)
 * [Firefox](https://www.mozilla.org/fr/firefox/new/)
 * [Google Drive](https://www.google.com/intl/fr_ALL/drive/download/backup-and-sync/)
 * [iTerm2](https://www.iterm2.com/downloads.html)
 * [KeePassXC](https://keepassxc.org/download/)
-* [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)
 * [Shuttle](http://fitztrev.github.io/shuttle/)
-* [Vagrant](https://www.vagrantup.com/downloads.html)
+* [Sublime Text](https://www.sublimetext.com/3)
+* [VeraCrypt](https://www.veracrypt.fr/en/Downloads.html)
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 * [VLC](https://www.videolan.org/vlc/)

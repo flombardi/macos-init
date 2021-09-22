@@ -17,6 +17,12 @@ Install some common [Homebrew](http://brew.sh/) formulae (after installing Homeb
 ./brew.sh
 ```
 
+## Install iTerm2
+
+* Install [iTerm2](https://iterm2.com/downloads.html).
+* Right-click [`Snazzy.itermcolors`](https://github.com/sindresorhus/iterm2-snazzy/raw/main/Snazzy.itermcolors), choose `Save Link As…` and double-click the downloaded file.
+* Configure iTerm2 with Snazzy color preset and FiraCode Nerd Font.
+
 ## Install Visual Studio Code
 
 Install [Visual Studio Code](https://code.visualstudio.com/download).
@@ -56,7 +62,6 @@ cp Preferences.sublime-settings ~/Library/Application\ Support/Sublime\ Text\ 3/
 * [FileZilla](https://filezilla-project.org/download.php?type=client)
 * [Firefox](https://www.mozilla.org/fr/firefox/new/)
 * [Google Drive](https://www.google.com/intl/fr_ALL/drive/download/)
-* [iTerm2](https://www.iterm2.com/downloads.html)
 * [KeePassXC](https://keepassxc.org/download/)
 * [Shuttle](http://fitztrev.github.io/shuttle/)
 * [Sublime Text](https://www.sublimetext.com/download)

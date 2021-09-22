@@ -47,6 +47,10 @@ brew install python@3.9
 # Install vagrant
 brew install --cask vagrant
 
+# Install Nerd Font
+brew tap homebrew/cask-fonts
+brew install font-fira-code-nerd-font
+
 # Remove outdated versions from the cellar.
 brew cleanup
 

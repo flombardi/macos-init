@@ -55,5 +55,5 @@ brew install starship
 brew cleanup
 
 # Set Homebrew bash as user shell
-sudo sh -c "echo '/usr/local/bin/bash' >> /etc/shells"
+sudo sh -c "grep -qxF '/usr/local/bin/bash' /etc/shells || echo '/usr/local/bin/bash' >> /etc/shells"
 chsh -s /usr/local/bin/bash

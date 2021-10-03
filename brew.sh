@@ -6,7 +6,7 @@
 brew update
 
 # Upgrade any already-installed formulae.
-brew upgrade --all
+brew upgrade
 
 # Update bash, git, python and tools (those that come with macOS are outdated).
 brew install bash
@@ -31,7 +31,6 @@ brew install go
 brew install jq
 brew install pre-commit
 brew install putty
-brew install ssh-copy-id
 brew install sshpass
 brew install tmux
 brew install tree

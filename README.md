@@ -21,7 +21,7 @@ Install some common [Homebrew](http://brew.sh/) formulae (after installing Homeb
 
 * Install [iTerm2](https://iterm2.com/downloads.html).
 * Right-click [`Snazzy.itermcolors`](https://github.com/sindresorhus/iterm2-snazzy/raw/main/Snazzy.itermcolors), choose `Save Link As…` and double-click the downloaded file.
-* Configure iTerm2 with Snazzy color preset and FiraCode Nerd Font.
+* Configure iTerm2 with Snazzy color preset and MesloLGM Nerd Font.
 
 ## Install Visual Studio Code
 

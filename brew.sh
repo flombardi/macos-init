@@ -48,7 +48,7 @@ brew install --cask vagrant
 
 # Install Starship prompt and Nerd Font
 brew tap homebrew/cask-fonts
-brew install font-fira-code-nerd-font
+brew install font-meslo-lg-nerd-font
 brew install starship
 
 # Remove outdated versions from the cellar.

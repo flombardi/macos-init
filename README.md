@@ -21,7 +21,7 @@ Install some common [Homebrew](http://brew.sh/) formulae (after installing Homeb
 
 * Install [iTerm2](https://iterm2.com/downloads.html).
 * Right-click [`Snazzy.itermcolors`](https://github.com/sindresorhus/iterm2-snazzy/raw/main/Snazzy.itermcolors), choose `Save Link As…` and double-click the downloaded file.
-* Configure iTerm2 with Snazzy color preset and MesloLGM Nerd Font.
+* Configure iTerm2 with Snazzy color preset and MesloLGS Nerd Font.
 
 ## Install Visual Studio Code
 
@@ -66,5 +66,6 @@ cp Preferences.sublime-settings ~/Library/Application\ Support/Sublime\ Text\ 3/
 * [Shuttle](http://fitztrev.github.io/shuttle/)
 * [Sublime Text](https://www.sublimetext.com/download)
 * [VeraCrypt](https://www.veracrypt.fr/en/Downloads.html)
+* [Vagrant](https://www.vagrantup.com/downloads)
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 * [VLC](https://www.videolan.org/vlc/)

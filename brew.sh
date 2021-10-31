@@ -31,7 +31,7 @@ brew install go
 brew install jq
 brew install pre-commit
 brew install putty
-brew install sshpass
+brew install hudochenkov/sshpass/sshpass
 brew install tmux
 brew install tree
 
@@ -42,9 +42,6 @@ brew install yarn
 # Install python3
 brew install black
 brew install python@3.9
-
-# Install vagrant
-brew install --cask vagrant
 
 # Install Starship prompt and Nerd Font
 brew tap homebrew/cask-fonts

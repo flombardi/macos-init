@@ -35,14 +35,14 @@ ln -s /Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code /us
 
 ## Install Sublime Text
 
-Install [Sublime Text](https://www.sublimetext.com/3).
+Install [Sublime Text](https://www.sublimetext.com/download).
 
 Create `subl` symbolic link and copy preferences file:
 
 ```bash
 ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
-mkdir -p ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User
-cp Preferences.sublime-settings ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/
+mkdir -p ~/Library/Application\ Support/Sublime\ Text/Packages/User/
+cp Preferences.sublime-settings ~/Library/Application\ Support/Sublime\ Text/Packages/User/
 ```
 
 ## Install from App Store

@@ -49,7 +49,6 @@ cp Preferences.sublime-settings ~/Library/Application\ Support/Sublime\ Text/Pac
 
 * Amphetamine
 * CleanMyDrive 2
-* CopyClip
 * The Unarchiver
 
 ## 3rd Party
@@ -63,6 +62,7 @@ cp Preferences.sublime-settings ~/Library/Application\ Support/Sublime\ Text/Pac
 * [Firefox](https://www.mozilla.org/fr/firefox/new/)
 * [Google Drive](https://www.google.com/intl/fr_ALL/drive/download/)
 * [KeePassXC](https://keepassxc.org/download/)
+* [Maccy](https://github.com/p0deje/Maccy/releases)
 * [Shuttle](http://fitztrev.github.io/shuttle/)
 * [Sublime Text](https://www.sublimetext.com/download)
 * [VeraCrypt](https://www.veracrypt.fr/en/Downloads.html)

@@ -33,39 +33,36 @@ Create `code` symbolic link:
 ln -s /Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code /usr/local/bin/code
 ```
 
-## Install Sublime Text
+## Install Zed
 
-Install [Sublime Text](https://www.sublimetext.com/download).
+Install [Zed](https://zed.dev/download).
 
-Create `subl` symbolic link and copy preferences file:
+Create `zed` symbolic link and copy preferences file:
 
 ```bash
-ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
-mkdir -p ~/Library/Application\ Support/Sublime\ Text/Packages/User/
-cp Preferences.sublime-settings ~/Library/Application\ Support/Sublime\ Text/Packages/User/
+ln -s /Applications/Zed.app/Contents/MacOS/cli /usr/local/bin/zed
+mkdir -p ~/.config/zed/
+cp zed-settings.json ~/.config/zed/settings.json
 ```
 
 ## Install from App Store
 
 * Amphetamine
-* CleanMyDrive 2
 * The Unarchiver
 
 ## 3rd Party
 
 * [AltTab](https://alt-tab-macos.netlify.app/)
 * [AppCleaner](https://freemacsoft.net/appcleaner/)
-* [Authy](https://authy.com/download/)
 * [Chrome](https://www.google.com/chrome/)
 * [Docker Desktop](https://www.docker.com/products/docker-desktop)
 * [FileZilla](https://filezilla-project.org/download.php?type=client)
 * [Firefox](https://www.mozilla.org/fr/firefox/new/)
 * [Google Drive](https://www.google.com/intl/fr_ALL/drive/download/)
 * [KeePassXC](https://keepassxc.org/download/)
+* [Latest](https://max.codes/latest/)
 * [Maccy](https://github.com/p0deje/Maccy/releases)
 * [Shuttle](http://fitztrev.github.io/shuttle/)
-* [Sublime Text](https://www.sublimetext.com/download)
 * [VeraCrypt](https://www.veracrypt.fr/en/Downloads.html)
 * [Vagrant](https://www.vagrantup.com/downloads)
-* [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 * [VLC](https://www.videolan.org/vlc/)

@@ -41,7 +41,7 @@ brew install yarn
 
 # Install python3
 brew install black
-brew install python@3.9
+brew install python@3.11
 
 # Install Starship prompt and Nerd Font
 brew tap homebrew/cask-fonts

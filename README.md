@@ -62,6 +62,7 @@ cp zed-settings.json ~/.config/zed/settings.json
 * [KeePassXC](https://keepassxc.org/download/)
 * [Latest](https://max.codes/latest/)
 * [Maccy](https://github.com/p0deje/Maccy/releases)
+* [Marta](https://marta.sh)
 * [Shuttle](http://fitztrev.github.io/shuttle/)
 * [VeraCrypt](https://www.veracrypt.fr/en/Downloads.html)
 * [Vagrant](https://www.vagrantup.com/downloads)

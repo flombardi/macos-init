@@ -34,6 +34,7 @@ brew install putty
 brew install hudochenkov/sshpass/sshpass
 brew install tmux
 brew install tree
+brew install lolcat
 
 # Install Node.js
 brew install node

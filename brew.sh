@@ -45,9 +45,11 @@ brew install black
 brew install python@3.11
 
 # Install Starship prompt and Nerd Font
-brew tap homebrew/cask-fonts
 brew install font-meslo-lg-nerd-font
 brew install starship
+
+# Install Mole
+brew install tw93/tap/mole
 
 # Remove outdated versions from the cellar.
 brew cleanup
